@@ -1,7 +1,7 @@
 # dom-study
 Study DOM
 
-[Demo](xxxx)
+[Demo](https://rudy-xu.github.io/JavaScript-DOM/)
 
 ## Operating DOM
-- [example](./bandWebsite/scripts/global.js)
+- [example](./scripts/global.js)
